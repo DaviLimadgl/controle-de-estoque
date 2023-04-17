@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Rotas.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Versão" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Versão 4.2 : Adicionado  Radio(Rota 1 e Rota 2)
+Versão 4.2 : Adicionado  Checagem por senha antes de qualquer alteração(Padrao)
+Versão 4.3 : Correção de BUG ao modificar Rotas( Rota 1 e Rota 2 não entrava nas modificações) Obrigado Davi.
+Versão 4.3 : Instalação Automatica no Disco Local C:
+Versão 4.3 :  Odenação da tabela de alteração por data. Obrigado Davi</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
